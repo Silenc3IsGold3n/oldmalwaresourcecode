@@ -1,0 +1,5 @@
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\bin\Debug\AdobeAir.exe.config
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\bin\Debug\AdobeAir.exe
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\bin\Debug\AdobeAir.pdb
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\obj\x86\Debug\AdobeAir.exe
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\obj\x86\Debug\AdobeAir.pdb

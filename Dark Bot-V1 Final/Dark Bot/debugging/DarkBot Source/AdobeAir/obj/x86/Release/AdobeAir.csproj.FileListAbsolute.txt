@@ -1,0 +1,6 @@
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\obj\x86\Release\AdobeAir.csprojResolveAssemblyReference.cache
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\bin\Release\Adobe Air Updater.exe.config
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\bin\Release\Adobe Air Updater.exe
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\bin\Release\Adobe Air Updater.pdb
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\obj\x86\Release\Adobe Air Updater.exe
+C:\Users\Arend\Desktop\AdobeAir\AdobeAir\obj\x86\Release\Adobe Air Updater.pdb
